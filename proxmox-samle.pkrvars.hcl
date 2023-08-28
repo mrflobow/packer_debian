@@ -1,0 +1,8 @@
+proxmox_host         = "192.168.178.2:8006"
+proxmox_node         = "node01"
+proxmox_api_user     = "root@pam!mytoken"
+proxmox_api_token = "xxxx"
+#cloudinit_storage_pool = "vmpool"
+#disk_storage_pool = "vmpool"
+#disk_storage_pool_type = "raw"
+iso_file = "isos:iso/debian-11.6.0-amd64-netinst.iso"
