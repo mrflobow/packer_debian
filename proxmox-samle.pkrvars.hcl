@@ -5,5 +5,5 @@ proxmox_api_token = "mytoken"
 #Check storage pool settings
 cloudinit_storage_pool = "vmpool"
 disk_storage_pool = "vmpool"
-disk_storage_pool_type = "lvm-thin" #default lvm
+disk_storage_pool_type = "lvmthin" #default lvm
 iso_file = "isos:iso/debian-12.2.0-amd64-netinst.iso"
